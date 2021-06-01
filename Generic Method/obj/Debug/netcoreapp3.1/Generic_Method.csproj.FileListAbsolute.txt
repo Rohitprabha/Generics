@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.exe
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.deps.json
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Method\bin\Debug\netcoreapp3.1\Generic_Method.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Method\obj\Debug\netcoreapp3.1\Generic_Method.genruntimeconfig.cache
