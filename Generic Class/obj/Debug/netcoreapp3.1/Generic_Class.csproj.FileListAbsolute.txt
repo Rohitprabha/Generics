@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.exe
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.deps.json
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Class\bin\Debug\netcoreapp3.1\Generic_Class.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.dll
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.pdb
+C:\Users\Rohit Dasari\source\repos\Generic_Class\obj\Debug\netcoreapp3.1\Generic_Class.genruntimeconfig.cache
